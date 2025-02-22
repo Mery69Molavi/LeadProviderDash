@@ -1,5 +1,5 @@
-The OpenAPI (Swagger) is already added to the Server App and can be used as both documentation and to test endpoints.
-.NET SDK 8 will need to be installed prior to running the server App.
+The OpenAPI (Swagger) is already added to the Server app and can be used as both documentation and to test endpoints.
+.NET SDK 8 will need to be installed prior to running the server app.
 To run the front-end app first run npm install in leadproviderdash.client folder to install the required packages, you can then run "ng serve" in leadproviderdash.client folder, this will build and start the angular app in prot 4200.
 
 If you run the entire app in Visual Studio 2022 debug mode, it will build both frontend and backend apps for you and run them.
