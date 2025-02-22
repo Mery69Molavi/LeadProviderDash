@@ -7,6 +7,6 @@ If you run the entire app in Visual Studio 2022 debug mode, it will build both f
 You can do API testing and view documentation by accessing the swagger url http://localhost:5027/swagger/index.html
 
 
-Below is a screen capture of Testing the entire App.
+Below is a screen capture of Testing the entire app.
 
 ![Leadprovider](https://github.com/user-attachments/assets/3393ee15-1b54-4a46-916c-1b5e6d86fe42)
